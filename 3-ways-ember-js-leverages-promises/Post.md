@@ -227,3 +227,4 @@ Loading records, reloading a single record, saving and deleting all return promi
 I showed several scenarios where Ember.js relies on promises to solve interesting problems in ingenious ways. Knowing how these concepts work under the hood not only makes you appreciate the finesse of the implementation, but it also enables you to leverage promises for the problems you come across. An example of this could be returning a composite promise from your model hook that fetches from several endpoints or trying to save a record several times before giving up.
 
 There is a whole lot more to like and learn about Ember so if I piqued your interest, I suggest you [read my book](http://balinterdi.com/rock-and-roll-with-emberjs?utm_source=hackhands-ember-promises&utm_campaign=guest-blogging&utm_medium=referral), Rock and Roll with Ember.js. As its title suggests, you are in for quite a ride!
+ed
